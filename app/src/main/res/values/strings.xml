@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">asynctask</string>
+    <string name="ClickMe">ClickMe</string>
+    <string name="HClickMe">HClickMe</string>
+</resources>
